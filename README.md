@@ -33,4 +33,17 @@ python main_llm_zeroshot.py --split val --eval 1 --auto_gpu_config 0 \
 --use_gtsem 0 --num_local_steps 10
 ```
 
+## Citation
+If you find this project useful, welcome to cite us.
+```bib
+@inproceedings{zhang2024trihelper,
+  title={Trihelper: Zero-shot object navigation with dynamic assistance},
+  author={Zhang, Lingfeng and Zhang, Qiang and Wang, Hao and Xiao, Erjia and Jiang, Zixuan and Chen, Honglei and Xu, Renjing},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={10035--10042},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 
